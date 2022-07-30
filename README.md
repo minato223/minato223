@@ -12,11 +12,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=minato223&show_icons=true&locale=en" alt="minato223" /></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=minato223&show_icons=true&locale=en&layout=compact" alt="minato223" /></p>
-</br>
-</br>
+<p><img src="https://github-readme-stats.vercel.app/api?username=minato223&show_icons=true&locale=en" alt="minato223" /></p>
 
 ## Mes réseaux 🥷
 <p align="left">
