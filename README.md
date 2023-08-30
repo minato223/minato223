@@ -1,4 +1,4 @@
-![Lamine Diarra](https://github.com/minato223/minato223/blob/main/bg.png)
+![Lamine Diarra](https://github.com/minato223/minato223/blob/main/banner.png)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 ## Qui suis je ? 🤔
